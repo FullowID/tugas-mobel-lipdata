@@ -1,10 +1,9 @@
-package com.example.automotiveshandbook
+package com.example.automotiveshandbook.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.TextView
-import androidx.lifecycle.LiveData
 import com.example.automotiveshandbook.databinding.ActivityDetailBinding
+import com.example.automotiveshandbook.viewModel.AutomotiveViewModel
 
 class DetailActivity : AppCompatActivity() {
     private var _binding: ActivityDetailBinding? = null
