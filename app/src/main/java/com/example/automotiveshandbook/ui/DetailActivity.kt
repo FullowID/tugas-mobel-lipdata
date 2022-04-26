@@ -8,7 +8,6 @@ import com.example.automotiveshandbook.viewModel.AutomotiveViewModel
 class DetailActivity : AppCompatActivity() {
     private var _binding: ActivityDetailBinding? = null
     private val binding get() = _binding!!
-    private val viewModel = AutomotiveViewModel()
 
     companion object {
         const val EXTRA_TITLE = "title"
@@ -23,13 +22,13 @@ class DetailActivity : AppCompatActivity() {
         val view = binding.root
         setContentView(view)
 
-        val name = binding.detailTitle2
+        val name = binding.detailTitle
         name.text = intent?.getStringExtra(EXTRA_TITLE).toString()
 
-        val description = binding.detailDescription2
+        val description = binding.detailDescription
         description.text = intent?.getStringExtra(EXTRA_DESCRIPTION).toString()
 
-        val image = binding.detailImage2
+        val image = binding.detailImage
         image.setImageResource(intent.getIntExtra(EXTRA_IMAGE, 0))
 
     }

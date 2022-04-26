@@ -1,13 +1,10 @@
 package com.example.automotiveshandbook
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupActionBarWithNavController
-import androidx.recyclerview.widget.RecyclerView
-import com.example.automotiveshandbook.data.Datasource
-import com.example.automotiveshandbook.adapter.ItemAdapter
 import com.example.automotiveshandbook.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

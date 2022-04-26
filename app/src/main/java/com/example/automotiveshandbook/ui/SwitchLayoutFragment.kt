@@ -12,15 +12,15 @@ import com.example.automotiveshandbook.adapter.ItemAdapter
 import com.example.automotiveshandbook.data.Datasource
 import com.example.automotiveshandbook.databinding.FragmentSwitchLayoutBinding
 
-class SwitchLayoutFragment: Fragment(R.layout.fragment_switch_layout) {
+class SwitchLayoutFragment : Fragment(R.layout.fragment_switch_layout) {
     private var isLinearLayoutManager = true
     private var _binding: FragmentSwitchLayoutBinding? = null
     private val binding get() = _binding!!
     private lateinit var recyclerView: RecyclerView
 
-    companion object{
+    companion object {
         private const val GALLERY_LAYOUT = "gallery_layout"
-       // private const val
+        // private const val
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -55,7 +55,7 @@ class SwitchLayoutFragment: Fragment(R.layout.fragment_switch_layout) {
         setIcon(layoutButton)
     }
 
-    private fun setIcon(menuItem: MenuItem?){
+    private fun setIcon(menuItem: MenuItem?) {
         if (menuItem == null)
             return
 
@@ -65,7 +65,7 @@ class SwitchLayoutFragment: Fragment(R.layout.fragment_switch_layout) {
             else ContextCompat.getDrawable(requireContext(), R.drawable.ic_linear_layout)
     }
 
-    private fun chooseLayout(){
+    private fun chooseLayout() {
         if (isLinearLayoutManager) {
             recyclerView.layoutManager = LinearLayoutManager(requireContext())
         } else {
