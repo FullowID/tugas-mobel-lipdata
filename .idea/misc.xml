@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/layout/activity_main.xml" value="0.12092391304347826" />
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/layout/detail_activity.xml" value="0.12952898550724637" />
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/layout/fragment_detail.xml" value="0.22" />
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/layout/fragment_gallery.xml" value="0.12092391304347826" />
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/layout/fragment_menu.xml" value="0.12092391304347826" />
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/layout/fragment_switch_layout.xml" value="0.12092391304347826" />
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/layout/list_item.xml" value="0.12952898550724637" />
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/layout/main_fragment.xml" value="0.12952898550724637" />
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/layout/test_automotive_fragment.xml" value="0.12952898550724637" />
+        <entry key="..\:/Android/Automotives-Handbook/app/src/main/res/menu/layout_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Arin/Project/AndroidStudio/AutomotivesHandbook/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Arin/Project/AndroidStudio/AutomotivesHandbook/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Arin/Project/AndroidStudio/AutomotivesHandbook/app/src/main/res/layout/layout_anim.xml" value="0.14583333333333334" />
+        <entry key="..\:/Arin/Project/AndroidStudio/AutomotivesHandbook/app/src/main/res/layout/list_item.xml" value="0.33" />
+        <entry key="..\:/Arin/Project/AndroidStudio/AutomotivesHandbook/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Arin/Project/AndroidStudio/AutomotivesHandbook/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Automotives Handbook</string>
+    <string name="automotive1">This is an APC</string>
+    <string name="automotive2">Another APC</string>
+    <string name="automotive3">Some car with heavy wheel</string>
+    <string name="automotive4">Can be used in the moon</string>
+    <string name="automotive5">Tank?</string>
+    <string name="automotive6">Mobile transport</string>
+    <string name="automotive7">Tank APC Truck with extra size</string>
+    <string name="automotive8">Definitely A transportation</string>
+    <string name="automotive9">Is it a car?</string>
+    <string name="automotive10">Yes it is</string>
+    <string name="title1">APC–211</string>
+    <string name="title2">Mech–R1</string>
+    <string name="title3">APC–312</string>
+    <string name="title4">Truck–41</string>
+    <string name="title5">ART-87</string>
+    <string name="title6">Mech-R6</string>
+    <string name="title7">HA-501</string>
+    <string name="title8">APC-A07</string>
+    <string name="title9">APC-B10</string>
+    <string name="title10">Truck-12</string>
+    <string name="description">Description</string>
+    <!-- Menu -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_switch_layout">Switch Layout</string>
+</resources>
