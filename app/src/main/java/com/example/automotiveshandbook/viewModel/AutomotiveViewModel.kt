@@ -1,4 +1,4 @@
-package com.example.automotiveshandbook
+package com.example.automotiveshandbook.viewModel
 
 import android.graphics.drawable.Drawable
 import androidx.core.graphics.drawable.toDrawable

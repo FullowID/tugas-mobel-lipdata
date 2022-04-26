@@ -8,8 +8,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.automotiveshandbook.AutomotiveViewModel
-import com.example.automotiveshandbook.DetailActivity
+import com.example.automotiveshandbook.ui.DetailActivity
 import com.example.automotiveshandbook.R
 import com.example.automotiveshandbook.model.Automotive
 

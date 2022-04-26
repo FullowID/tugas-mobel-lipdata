@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AutomotivesHandbook">
         <activity
-            android:name=".DetailActivity"
+            android:name=".ui.DetailActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
