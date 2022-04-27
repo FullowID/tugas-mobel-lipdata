@@ -18,11 +18,6 @@ class SwitchLayoutFragment : Fragment(R.layout.fragment_switch_layout) {
     private val binding get() = _binding!!
     private lateinit var recyclerView: RecyclerView
 
-    companion object {
-        private const val GALLERY_LAYOUT = "gallery_layout"
-        // private const val
-    }
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setHasOptionsMenu(true)
